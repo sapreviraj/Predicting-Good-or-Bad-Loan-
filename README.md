@@ -1,4 +1,7 @@
-# Data Analysis Project on Lending Club Dataset predicting whether a loan is good or bad. 
+# Data Analysis Project on Lending Club Dataset
+
+# Objective 
+To predict whether a loan is good or bad based on the loan status of the applicant.  
 
 # About the Data 
 The data contains 890 thousand observations and 75 variables. It contains complete loan data for all loans issued through the 2007-2015, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information.   
