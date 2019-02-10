@@ -1,5 +1,8 @@
 # Data Analysis Project on Lending Club Dataset
 
+# Source 
+The dataset is available at Kaggle. It can found at https://www.kaggle.com/wendykan/lending-club-loan-data
+
 # Objective 
 To predict whether a loan is good or bad based on the loan status of the applicant.  
 
